@@ -1,7 +1,7 @@
 <hr>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=onedark&height=80&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=onedark&height=75&section=header"/>
 <h1 align="center">
-  <img src = "https://readme-typing-svg.demolab.com/?&color=20C997&center=true&duration=3500&pause=1000&width=700&size=28&lines=Hi,+I'm+Mohammad+Reza+Sabipour;I'm+currently+a+CE+student+at+IAU">
+  <img src = "https://readme-typing-svg.demolab.com/?&color=339AF0&center=true&duration=3500&pause=1000&width=700&size=28&lines=Hi,+I'm+Mohammad+Reza+Sabipour;I'm+currently+a+CE+student+at+IAU">
 </h1>
 
 <div align="center">
@@ -23,11 +23,11 @@
 <br>
 <div align=center>
 
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mohammad-reza-sabipour&hide_border=true&bg_color=0000&show_icons=true&title_color=20C997&text_color=ffffff&icon_color=20C997&ring_color=fff)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mohammad-reza-sabipour&hide_border=true&bg_color=0000&show_icons=true&title_color=20C997&text_color=000&icon_color=20C997)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mohammad-reza-sabipour&hide_border=false&bg_color=0000&show_icons=true&title_color=339AF0&text_color=ffffff&icon_color=339AF0&ring_color=fff)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mohammad-reza-sabipour&hide_border=false&bg_color=0000&show_icons=true&title_color=339AF0&text_color=000&icon_color=339AF0)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
   
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-reza-sabipour&bg_color=0000&hide_border=true&layout=pie&title_color=20C997&text_color=fff&icon_color=20C997#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-reza-sabipour&bg_color=0000&hide_border=true&layout=pie&title_color=20C997&text_color=000&icon_color=20C997#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-reza-sabipour&bg_color=0000&hide_border=false&layout=pie&title_color=339AF0&text_color=fff&icon_color=339AF0#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-reza-sabipour&bg_color=0000&hide_border=false&layout=pie&title_color=339AF0&text_color=000&icon_color=339AF0#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 <h2 align="left">Licenses & Certifications</h2>
@@ -44,4 +44,4 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=onedark&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=onedark&height=70&section=footer"/>
