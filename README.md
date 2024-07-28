@@ -35,7 +35,7 @@
 
 <h2 align="left">Other links</h2><br>
 <div align="center">
-  <a href="https://leetcode.com/"><img width = 60 src="https://github.com/user-attachments/assets/5d37a79d-2749-4028-bfb4-74cea347714b"></a>
+  <a href="https://leetcode.com/u/M0h4mm4dr324/"><img width = 60 src="https://github.com/user-attachments/assets/5d37a79d-2749-4028-bfb4-74cea347714b"></a>
   <a href="https://codeforces.com/profile/M0h4mm4dr324"><img width = 60 src="https://github.com/user-attachments/assets/07904dfd-364c-4b8a-8b95-78243646667f"></a>
   <a href="mailto:mohammadreza.sabipour@gmail.com"><img width = 60 src="https://github.com/user-attachments/assets/7f7df182-7860-4824-afd2-5691437c7d77"></a>
   <a href="https://www.linkedin.com/in/mohammad-reza-sabipour-853691313"><img width = 60 src="https://github.com/user-attachments/assets/9ebd2d3b-b75d-4b60-bada-25a508f272aa"></a>
