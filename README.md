@@ -31,7 +31,13 @@
 <br>
 
 
-<h2 align="left">Licenses & Certifications</h2>
+<h2 align="left">Licenses & Certifications</h2><br>
+<div align='center'>
+  <a href='https://www.kaggle.com/learn/certification/mohammadrezasabipour/pandas'>
+    <img src="https://github.com/user-attachments/assets/9ac81519-7af5-4a42-afe5-a0a89d43d25a" width="100">
+  </a>
+</div>
+
 
 <h2 align="left">Other links</h2><br>
 <div align="center">
