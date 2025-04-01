@@ -1,6 +1,6 @@
 ### <h2 align="center">Hi👋 I'm Mohammad Reza Sabipour</h2>
 
-<h3 align="center">A Information Technology student from Tarbiat Modares University👨‍💻</h3>
+<h3 align="center">An Information Technology student from Tarbiat Modares University👨‍💻</h3>
 
 ## Languages and Tools  
  
