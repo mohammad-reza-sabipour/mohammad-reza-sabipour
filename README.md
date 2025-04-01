@@ -2,15 +2,12 @@
 
 <h3 align="center">I'm currently an Information Technology student at Tarbiat Modares University👨‍💻</h3>
 
-## Languages and Tools  
+## Programming Languages
  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="python logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-plain.svg" height="40" alt="html logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-plain.svg" height="40" alt="css logo"  />
 </div>
