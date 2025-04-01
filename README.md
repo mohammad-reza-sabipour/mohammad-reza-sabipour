@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm currently an Information Technology student at Tarbiat Modares University👨‍💻</h3>
 
-## Programming Languages
+## Languages and Frameworks
  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="python logo"  />
