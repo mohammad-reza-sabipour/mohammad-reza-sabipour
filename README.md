@@ -6,7 +6,7 @@ Hi👋 I'm Mohammad Reza Sabipour, currently an Information Technology student a
 
 [![LinkedIn](https://img.shields.io/badge/Github-091057?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/mohammad-reza-sabipour)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohammad_reza_sabipour)
-[![Codechef](https://img.shields.io/badge/LeetCode-F3C623.svg?&style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/users/M0h4mm4dr324)
+[![Codechef](https://img.shields.io/badge/LeetCode-F3C623.svg?&style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/M0h4mm4dr324)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/M0h4mm4dr324)
 [![Codeforces](https://img.shields.io/badge/Gmail-FF2929?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadreza.sabipour@gmail.com)
 [![Codeforces](https://img.shields.io/badge/google_scholar-0D92F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TT42Kb4AAAAJ&hl=en)
