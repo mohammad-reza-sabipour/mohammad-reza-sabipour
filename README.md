@@ -11,6 +11,7 @@ Hi👋 I'm Mohammad Reza Sabipour, currently an Information Technology student a
 [![image](https://github.com/user-attachments/assets/38b75a33-3de3-4303-bf8c-1c3a5967e793)](https://github.com/mohammad-reza-sabipour)
 [![image](https://github.com/user-attachments/assets/6915c7d4-41b5-407c-8270-122cf0fa11b1)](https://medium.com/@mohammad_reza_sabipour)
 [![image](https://github.com/user-attachments/assets/760e4418-c64d-42c3-8ffd-31b4ee88fea5)](https://www.leetcode.com/M0h4mm4dr324)
+[![image](https://github.com/user-attachments/assets/53372187-9055-4663-868c-1045e1853bb4)](https://www.kaggle.com/mohammadrezasabipour)
 [![image](https://github.com/user-attachments/assets/ceeda545-3f88-492a-9bf0-51544950adb0)](https://codeforces.com/profile/M0h4mm4dr324)
 [![image](https://github.com/user-attachments/assets/cac67fa1-7400-4085-8636-f1e365300b55)](mailto:mohammadreza.sabipour@gmail.com)
 
