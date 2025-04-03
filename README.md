@@ -22,7 +22,7 @@ So far I've learned some computer science, math, fuzzy logic, social network ana
 
 <h3 align="center">Languages and Frameworks</h3>
 <p align="center">
-<img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,java,cpp,c,html,css,matlab,bootstrap,django,sql&titles=true" alt="skill icons" title="skill icons">
+<img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,java,cpp,c,html,css,matlab,bootstrap,django&titles=true" alt="skill icons" title="skill icons">
 </p>
 
 ---
