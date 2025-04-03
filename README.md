@@ -2,17 +2,18 @@
 
 
 Hi👋 I'm Mohammad Reza Sabipour, currently an Information Technology student at Tarbiat Modares University👨‍💻
+So far I've learned some computer science, math, fuzzy logic, social network analysis, web development, photoshop, networking, and game development.
 
 ---
 
 <div align="center">
 <h3 align="center">Other Profiles</h3>
 
-[![image](https://github.com/user-attachments/assets/2a3f97b0-e74d-4c58-904e-1dc4f200fd11)](https://github.com/mohammad-reza-sabipour)
-[![image](https://github.com/user-attachments/assets/e10b6daf-35b8-4e98-bd0d-5d2debf38848)](https://medium.com/@mohammad_reza_sabipour)
-[![image](https://github.com/user-attachments/assets/1492f6e7-7afa-436e-91a8-08ff3101c383)](https://www.leetcode.com/M0h4mm4dr324)
-[![image](https://github.com/user-attachments/assets/f0c1b82e-6b97-4c65-b5b0-5de827b6d5d0)](https://codeforces.com/profile/M0h4mm4dr324)
-[![image](https://github.com/user-attachments/assets/f8272558-d050-4de1-ae23-b402d4fecd03)](mailto:mohammadreza.sabipour@gmail.com)
+[![image](https://github.com/user-attachments/assets/38b75a33-3de3-4303-bf8c-1c3a5967e793)](https://github.com/mohammad-reza-sabipour)
+[![image](https://github.com/user-attachments/assets/6915c7d4-41b5-407c-8270-122cf0fa11b1)](https://medium.com/@mohammad_reza_sabipour)
+[![image](https://github.com/user-attachments/assets/760e4418-c64d-42c3-8ffd-31b4ee88fea5)](https://www.leetcode.com/M0h4mm4dr324)
+[![image](https://github.com/user-attachments/assets/ceeda545-3f88-492a-9bf0-51544950adb0)](https://codeforces.com/profile/M0h4mm4dr324)
+[![image](https://github.com/user-attachments/assets/cac67fa1-7400-4085-8636-f1e365300b55)](mailto:mohammadreza.sabipour@gmail.com)
 
 </div>
 
